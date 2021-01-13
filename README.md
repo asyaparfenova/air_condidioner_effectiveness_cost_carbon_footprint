@@ -31,6 +31,7 @@ Obviously, a detailed data analysis and even some machine learning techniques we
 ## Repository Content
 - /images (Folder with images, used in .md files and notebooks)
 - Data Wrangling (Jupiter Notebook)
+Coming soon:
 - EDA (Jupiter Notebook)
 - ML - Classification (Jupiter Notebook)
 - ML - Regression (Jupiter Notebook)
